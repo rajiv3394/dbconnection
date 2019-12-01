@@ -1,1 +1,1 @@
-Loading data from pandas dataframe to mssql database.
+Loading data from pandas dataframe to mssql database table.
