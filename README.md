@@ -1,2 +1,1 @@
-# dbconnection
-Pandas - db connection
+Loading data from pandas dataframe to mssql database.
